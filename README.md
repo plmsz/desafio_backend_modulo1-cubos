@@ -5,24 +5,24 @@
 O objetivo deste desafio é solucionar problemas de lógica de programação com JavaScript no HackerHank.
 
 ## Exercícios obrigatórias
-🚀 <a href=./1_soma_dos_elementos/soma_dos_elementos.js>Soma dos elementos</a>
-🚀 <a href=./2_media_aritmetica/media_aritmetica.js>Média aritmética</a>
-🚀 <a href=./3_numero_intervalo/numero_intervalo.js>Número entre intervalos</a>
-🚀 <a href=./4_mesa_poker/mesa_poker.js>Mesa de Poker</a>
-🚀 <a href=./5_truco/truco.js>Truco</a>
-🚀 <a href=./6_cacula_dos_adultos.js>Caçula dos adultos</a>
-🚀 <a href=./7_contador_palavras.js>Contador de palavras</a>
-🚀 <a href=./7_americano_americano.js>Contador de palavras</a>
-🚀 <a href=./9_promocao/promocao.js>Promoção</a>
-🚀 <a href=./9_zero_um/zero_um.js>Promoção</a>
+🚀 <a href=./01_soma_dos_elementos/soma_dos_elementos.js>Soma dos elementos</a>
+🚀 <a href=./02_media_aritmetica/media_aritmetica.js>Média aritmética</a>
+🚀 <a href=./03_numero_intervalo/numero_intervalo.js>Número entre intervalos</a>
+🚀 <a href=./04_mesa_poker/mesa_poker.js>Mesa de Poker</a>
+🚀 <a href=./05_truco/truco.js>Truco</a>
+🚀 <a href=./06_cacula/cacula.js>Caçula dos adultos</a>
+🚀 <a href=./07_contador_palavras.js>Contador de palavras</a>
+🚀 <a href=./08_americano/americano.js>Contador de palavras</a>
+🚀 <a href=./09_promocao/promocao.js>Promoção</a>
+🚀 <a href=./10_zero_um/zero_um.js>Promoção</a>
 🚀 <a href=./11_taximetro/taximetro.js>Alocando Pessoas</a>
 🚀 <a href=./12_alocando_pessoas/alocando_pessoas.js>Alocando Pessoas</a>
 
 ## Exercícios opcionais
-⭐ <a href=./14_capslock/capslok.js>Alocando Pessoas</a>
-⭐ <a href=./14_capslock/capslok.js>Distância máxima</a>
+⭐ <a href=./13_distancia_maxima/distancia_maxima.js>Distância máxima</a>
+⭐ <a href=./14_capslock/capslok.js>Capslock</a>
 ⭐ <a href=./15_cofre_bugado/cofre_bugado.js>Cofre Bugado</a>
-⭐ <a href=./15_cofre_bugado/cofre_bugado.js>Férias na Cubos</a>
+⭐ <a href=./16_ferias_cubos/ferias_cubos.js>Férias na Cubos</a>
 
 ### Alguns aprendizados
 
