@@ -11,8 +11,8 @@ O objetivo deste desafio é solucionar problemas de lógica de programação com
 🚀 <a href=./04_mesa_poker/mesa_poker.js>Mesa de Poker</a><br>
 🚀 <a href=./05_truco/truco.js>Truco</a><br>
 🚀 <a href=./06_cacula/cacula.js>Caçula dos adultos</a><br>
-🚀 <a href=./07_contador_palavras.js>Contador de palavras</a><br>
-🚀 <a href=./08_americano/americano.js>Americanos</a><br>
+🚀 <a href=./07_contador_palavras/contador_palavras.js>Contador de palavras</a><br>
+🚀 <a href=./08_americano/americano.js>Americano</a><br>
 🚀 <a href=./09_promocao/promocao.js>Promoção</a><br>
 🚀 <a href=./10_zero_um/zero_um.js>Zero ou um</a><br>
 🚀 <a href=./11_taximetro/taximetro.js>Taxímetro</a><br>
@@ -20,7 +20,7 @@ O objetivo deste desafio é solucionar problemas de lógica de programação com
 
 ## Exercícios opcionais
 ⭐ <a href=./13_distancia_maxima/distancia_maxima.js>Distância máxima</a><br>
-⭐ <a href=./14_capslock/capslok.js>Capslock</a><br>
+⭐ <a href=./14_capslock/capslock.js>Capslock</a><br>
 ⭐ <a href=./15_cofre_bugado/cofre_bugado.js>Cofre Bugado</a><br>
 ⭐ <a href=./16_ferias_cubos/ferias_cubos.js>Férias na Cubos</a><br>
 
